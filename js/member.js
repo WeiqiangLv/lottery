@@ -11,5 +11,6 @@ var member=[
     {"phone":"yf147","name":"Yuan Fang"},
     {"phone":"yz726","name":"Yuankai Zhu"},
     {"phone":"yd164","name":"Yuchu Duan"},
-    {"phone":"yz723","name":"Yue Zeng"}
+    {"phone":"yz723","name":"Yue Zeng"},
+    {"phone":"zw257","name":"Ziyuan Wang"}
 ]
